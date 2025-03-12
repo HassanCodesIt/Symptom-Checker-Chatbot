@@ -45,7 +45,7 @@ The **Disease Prediction App** is a machine learning-based web application desig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/disease-prediction-app.git
+   git clone https://github.com/HassanCodesIt/disease-prediction-app.git
    ```
 2. Navigate to the project directory:
    ```bash
