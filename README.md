@@ -1,4 +1,4 @@
-# Symptom-Checker-Chatbot
+# Symptom-Checker-app
 ![Screenshot 2025-03-09 191550](https://github.com/user-attachments/assets/225fce6e-11cb-4e46-b06c-f3d5bcf8f031)
 
 
